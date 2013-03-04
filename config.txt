@@ -1,0 +1,5 @@
+/*
+ * Class News configuration file
+ */
+name:"pressReview",version:"0.1",type:"class",role1:"0",role2:"0",role3:"0",role_group:"1",tbl_name:"press_review",instance:"yes",description:"Gestore di una rassegna stampa",removable:"yes",folders:"contents/pressReview"
+

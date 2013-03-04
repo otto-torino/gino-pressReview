@@ -1,0 +1,31 @@
+#last_pressReview {
+    background: none repeat scroll 0 0 #99AFC4;
+    border-radius: 8px 8px 8px 8px;
+    padding-bottom: 1px;
+}
+#last_pressReview header {
+    background: none repeat scroll 0 0 #4C7497;
+    border-bottom: 1px solid #FFFFFF;
+    border-radius: 8px 8px 0 0;
+    margin-bottom: 2px;
+}
+#last_pressReview header h1 {
+    color: #FFFFFF !important;
+    line-height: 43px;
+    margin: 0;
+    padding: 0 0 0 15px;
+}
+#last_pressReview header > div.right {
+    position: relative;
+    right: 8px;
+    top: 10px;
+}
+#last_pressReview .archive {
+    margin: 12px;
+    text-align: right;
+}
+#last_pressReview article {
+    background: none repeat scroll 0 0 #FFFFFF;
+    margin: 0 2px;
+    padding: 2px 2px 8px;
+}
